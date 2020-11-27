@@ -1,4 +1,4 @@
-# Hackathon-TEAM-4
+# Hackathon-TEAM-4:Aztechs
 ## Some info: 
 This is the first time our group has participated in a hackathon and have come up with an idea to help the society. We are very excited about this and also are eager to learn a lot of new experience and knowledge.
 ## Vigor Bond:
